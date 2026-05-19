@@ -71,6 +71,7 @@ Data cleaning and preprocessing in Excel
 SQL querying and data analysis
 Data visualization using Power BI
 End-to-end data analytics workflow
-📌 Outcome
+
+Outcome:
 
 This project demonstrates my ability to handle the complete data pipeline from data creation to visualization, showcasing real-world data analytics skills.
