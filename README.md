@@ -160,11 +160,9 @@ SOCIAL-MEDIA-SENTIMENT-ANALYSIS-AND-VISUALIZATION/
 
 # Dashboard Preview
 
-Add your Power BI dashboard screenshots inside the **dashboard_images** folder.
 
-```markdown
+
 ![Dashboard](5_dashboard_images/dashboard.png)
-```
 
 ---
 
